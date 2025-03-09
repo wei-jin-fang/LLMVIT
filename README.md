@@ -8,4 +8,6 @@ The paper and the code are coming soon ~~~
 
 √ release the training code
 
+× release the pretrained weight
+
 × release the dataset
