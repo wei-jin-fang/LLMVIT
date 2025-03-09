@@ -6,4 +6,6 @@ The paper and the code are coming soon ~~~
 
 √ release the model structure
 
-√ release the dataset
+√ release the training code
+
+× release the dataset
